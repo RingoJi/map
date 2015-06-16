@@ -19,6 +19,22 @@
     {
       "type": "Feature",
       "properties": {
+        "Organization": "sensorobot",
+        "Role": "Manufacturer & Distributor",
+        "Website": "www.sensorobots.net",
+        "Product": "Kobuki & Turtlebot 2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.40,
+          120.51
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "Organization": "Yujin Robot",
         "Role": "Kobuki Licensor, Manufacturer & Distributor",
         "Website": "http://garage.yujinrobot.com/"
